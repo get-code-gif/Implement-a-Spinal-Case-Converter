@@ -1,5 +1,4 @@
 
-    <script>
         const inputText = document.getElementById('inputText');
         const convertBtn = document.getElementById('convertBtn');
         const clearBtn = document.getElementById('clearBtn');
@@ -59,4 +58,3 @@
                 convertBtn.click();
             }
         });
-    </script>
